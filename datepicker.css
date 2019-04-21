@@ -1,0 +1,25 @@
+#other {
+    background: gray; 
+    color: white;
+}
+
+#this {
+   background: whitesmoke;
+   cursor: pointer;
+}
+
+#LeftArrow, #RightArrow{
+    cursor: pointer;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;  
+    width:450px;
+}
+
+td { 
+    border: 1px solid black;
+    width: 14.28%;
+}
+
